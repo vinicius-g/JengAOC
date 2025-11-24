@@ -1,2 +1,7 @@
 # JengAOC
-A proposta do jogo é tornar o estudo de memória, cache e endereçamento menos abstrato. A interação com a torre força o participante a refletir sobre cada conceito no momento em que atua, mantendo o foco no entendimento real do funcionamento interno dos sistemas. A dinâmica aproxima teoria e prática e facilita a fixação dos conteúdos.
+A ideia do jogo é aproximar o estudo de arquitetura e organização de computadores do cotidiano dos alunos de forma mais direta. Em vez de apenas ler ou decorar conteúdo, cada peça manipulada na torre leva o participante a pensar sobre memória, cache ou endereçamento de um jeito mais concreto. A interação constante cria um ritmo que estimula atenção, comparação entre conceitos e compreensão real, tornando o aprendizado menos abstrato e mais acessível.
+
+## Participantes
+- Laura Carvalho Dalsan - RA: 176553
+- Larissa Lumi Hayakawa De Sá - RA: 176551
+- Vinícius Gonçalves - RA: 176549
